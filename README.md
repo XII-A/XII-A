@@ -1,4 +1,4 @@
-Hi, My name is XII-A and this is my github page!
+Hi, My name is Abdulrazak Armanazi and this is my github page!
 - It will mostly contain:
   - Projects I have done while studying
   - Notes about topics I am intersted in ,and I want to study
