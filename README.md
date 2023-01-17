@@ -4,6 +4,6 @@ Hi, My name is Abdulrazak Armanazi and this is my github page!
   - Notes about topics I am intersted in ,and I want to study
   - Stuff I have done on the side 
 
-- If you want to reach me for any reason:
+- If you want to reach me:
   - abdulrazakarmnazi@gmail.com
 
